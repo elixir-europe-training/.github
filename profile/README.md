@@ -1,0 +1,3 @@
+# Welcome to the ELIXIR Training Platform GitHub 
+
+More information coming soon....
