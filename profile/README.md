@@ -1,3 +1,3 @@
-# Welcome to the ELIXIR Training Platform GitHub 
+# Welcome to the ELIXIR Training GitHub 
 
 More information coming soon....
